@@ -55,6 +55,7 @@ Criação de um boilerplate para facilitar a criação e configuração de um no
 - [Commitlint](https://commitlint.js.org/#/)
 - [Husk](https://typicode.github.io/husky/#/)
 - [Next PWA](https://github.com/shadowwalker/next-pwa#readme)
+- [Plop JS](https://plopjs.com/)
 
 
 # :rocket: Executando a aplicação
