@@ -77,7 +77,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 Caso queira ajudar a implementar novas funcionalidade nessa aplicação, poderá seguir o **roteiro de funcionalidades** a seguir. Ou também poderá propor sua própria funcionalidade.
 
-Para isso basta seguir o [roteiro](https://github.com/PedroHenry-Santos/boilerplate-next/main/CONTRIBUTING.md) em CONTRIBUTING.
+Para isso basta seguir o [roteiro](https://github.com/PedroHenry-Santos/boilerplate-next/blob/main/CONTRIBUTING.md) em CONTRIBUTING.
 ## :clock10: Histórico de atualizações
 
 Para saber sobre as [versões](https://github.com/PedroHenry-Santos/boilerplate-next/releases) deste código consulte o CHANGELOG detalhado.
