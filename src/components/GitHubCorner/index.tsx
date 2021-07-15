@@ -1,7 +1,7 @@
 import * as S from './styles';
 
 interface GitHubCornerProps {
-  projectUrl: string;
+  projectUrl?: string;
 }
 
 export const GitHubCorner: React.FC<GitHubCornerProps> = ({ projectUrl }) => {

@@ -1,4 +1,7 @@
-import Illustrate from '../../assets/images/setup.svg';
+import React from 'react';
+
+import { GitHubCorner } from '../GitHubCorner';
+import { Illustrate } from '../Illustrate';
 import * as S from './styles';
 
 export const Main = ({
@@ -7,11 +10,10 @@ export const Main = ({
 }) => {
   return (
     <S.Wrapper>
+      <GitHubCorner projectUrl="https://github.com/PedroHenry-Santos/boilerplate-next" />
       <S.Title>{title}</S.Title>
       <S.Description>{description}</S.Description>
-      <S.illustrate>
-        <Illustrate alt="Imagem de vários componentes apresentados em tela, de fundo um circulo tracejado" />
-      </S.illustrate>
+      <Illustrate />
     </S.Wrapper>
   );
 };

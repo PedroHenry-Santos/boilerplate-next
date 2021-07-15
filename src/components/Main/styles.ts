@@ -22,11 +22,3 @@ export const Description = styled.h2`
   font-weight: 400;
   color: #adb5bd;
 `;
-
-export const illustrate = styled.div`
-  width: min(30rem, 100%);
-  margin-top: 3rem;
-  svg {
-    width: 100%;
-  }
-`;

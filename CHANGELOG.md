@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/PedroHenry-Santos/boilerplate-next/compare/v1.0.0...v1.0.1) (2021-07-15)
+
+
+### Bug Fixes
+
+* **deploy:** fix bug in application build process ([5059218](https://github.com/PedroHenry-Santos/boilerplate-next/commit/5059218e2fe0c59eee790bc90c2e9866a536ffb0))
+
 # 1.0.0 (2021-07-15)
 
 

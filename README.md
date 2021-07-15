@@ -2,7 +2,6 @@
 
 ![Badge](https://img.shields.io/github/license/PedroHenry-Santos/boilerplate-next?style=flat&label=LICENSE&color=FFC300&labelColor=000000)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/PedroHenry-Santos/boilerplate-next?style=flat&labelColor=000000&color=FFC300)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/PedroHenry-Santos/boilerplate-next?style=flat&labelColor=000000&color=FFC300)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PedroHenry-Santos/boilerplate-next?color=FFC300&style=flat&labelColor=000000)
 ![GitHub repo size](https://img.shields.io/github/repo-size/PedroHenry-Santos/boilerplate-next?color=FFC300&labelColor=000000)
 
