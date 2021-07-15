@@ -8,7 +8,7 @@ import { Main } from '../components/Main';
 const PageComponent: React.FC<NextPage> = () => {
   return (
     <>
-      <GitHubCorner projectUrl="" />
+      <GitHubCorner projectUrl="https://github.com/PedroHenry-Santos/boilerplate-next" />
       <Main />
     </>
   );

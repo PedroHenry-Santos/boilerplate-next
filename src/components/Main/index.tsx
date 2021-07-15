@@ -1,4 +1,4 @@
-import Illustrate from '../../assets/images/illustrate.svg';
+import Illustrate from '../../assets/images/setup.svg';
 import * as S from './styles';
 
 export const Main = ({
